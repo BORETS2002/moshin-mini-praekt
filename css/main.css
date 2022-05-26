@@ -1,0 +1,90 @@
+body {
+  margin: 0px;
+  font-style: normal;
+  font-family: "Big Shoulders Display", " " Lexend Deca "", "Areal", sans-serif;
+  box-sizing: border-box;
+}
+.boss {
+  width: 920px;
+  margin: 0px;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 171px;
+  padding-bottom: 129px;
+}
+.container {
+  padding-top: 48px;
+  padding-left: 48px;
+  padding-bottom: 60px;
+  background: rgba(226, 134, 37, 1);
+  width: 307px;
+  border-radius: 8px;
+}
+.container-two {
+  background: rgba(0, 105, 113, 1);
+}
+.container-thee {
+  background: rgba(0, 65, 64, 1);
+}
+.img {
+  margin-bottom: 35px;
+}
+.sentr {
+  width: 101px;
+}
+.sentr-text {
+  font-family: "Big Shoulders Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  margin: 0px;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  color: rgb(242, 242, 242);
+}
+.small {
+  width: 212px;
+  margin-bottom: 94px;
+}
+.small-text {
+  font-family: "Lexend Deca";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: rgb(255, 255, 255);
+}
+.href-text {
+  text-decoration: none;
+  font-family: "Lexend Deca";
+  font-style: normal;
+  padding: 11px 31px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(226, 134, 37);
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 20px;
+}
+
+.href-text-two {
+  color: rgba(0, 105, 113, 1);
+}
+.href-text-three {
+  color: rgba(0, 65, 64, 1);
+}
+.href-text:hover {
+  background: rgb(226, 134, 37);
+  color: rgb(255, 255, 255);
+}
+.href-text-two:hover {
+  background: rgba(0, 105, 113, 1);
+}
+.href-text-three:hover {
+  background: rgba(0, 65, 64, 1);
+
+  text-decoration: rgb(255, 255, 255);
+}
