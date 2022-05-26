@@ -68,8 +68,8 @@ body {
   color: rgb(226, 134, 37);
   border: 2px solid rgb(255, 255, 255);
   border-radius: 20px;
+  transition: color 0.5s ease, background-color 0.5s ease;
 }
-
 .href-text-two {
   color: rgba(0, 105, 113, 1);
 }
